@@ -1,5 +1,18 @@
-
+/**
+ * Classe principal que conté el mètode main per executar la calculadora.
+ * <p>
+ * Aquesta classe mostra l'ús de les operacions que pot fer
+ * la calculadora.
+ * </p>
+ * 
+ * <h2>@author Antonio</h2>
+ * @version 1.0
+ */
 public class Main {
+    /**
+     * Mètode principal que executa exemples de totes les operacions de la calculadora.
+     * 
+     */
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
 
